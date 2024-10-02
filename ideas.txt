@@ -1,0 +1,16 @@
+Tracker from common things
+    -Schedule
+    -Finances
+    -Health
+    -Habits
+    -Goals/projects
+    -Analytics about these
+
+Subscription or ad based?
+
+Design
+    -Color Scheme: Techy (Black and blueish maybe, "https://land-book.com/websites/66769-homepage-01-viewpoint-webflow-e-commerce-website-template")
+    -Navbar: Transparent bg, oval buttons (change color when hovered), sub button on navbar
+    -Dashboard for daily use pages
+    -Profile to display user info
+    
